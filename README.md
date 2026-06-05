@@ -1,4 +1,4 @@
-# SpanWatch — Landing Page
+# Tremb Labs — Landing Page
 
 Static landing page for an **AI maintenance copilot for public infrastructure** (bridges, water systems, roads) startup. No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "SpanWatch",
-  domain: "spanwatch.example.com",
-  contactEmail: "hello@spanwatch.example.com"
+  companyName: "Tremb Labs",
+  domain: "tremblabs.xyz",
+  contactEmail: "hello@tremblabs.xyz"
 };
 ```
 
